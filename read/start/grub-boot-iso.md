@@ -1,7 +1,7 @@
 ---
 title: GRUB Boot ISO
 nav_order: 1020
-has_children: true
+has_children: false
 parent: 入門
 ---
 

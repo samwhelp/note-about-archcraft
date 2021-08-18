@@ -1,7 +1,7 @@
 ---
 title: 下載ISO檔
 nav_order: 1010
-has_children: true
+has_children: false
 parent: 入門
 ---
 
