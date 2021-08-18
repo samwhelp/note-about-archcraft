@@ -1,7 +1,7 @@
 
 # 首頁
 
-* [note-about-archcraft-os](https://samwhelp.github.io/note-about-archcraft-os/) ([GitHub](https://github.com/samwhelp/note-about-archcraft-os))
+* [note-about-archcraft](https://samwhelp.github.io/note-about-archcraft/) ([GitHub](https://github.com/samwhelp/note-about-archcraft))
 
 
 ## 相關筆記
