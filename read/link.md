@@ -18,6 +18,7 @@ has_children: true
 
 ## 相關筆記
 
+* [openbox 探索筆記](https://samwhelp.github.io/note-about-openbox/)
 * [manjaro 探索筆記](https://samwhelp.github.io/note-about-manjaro/)
 * [Ubuntu 20.04 探索筆記](https://samwhelp.github.io/note-ubuntu-20.04/)
 * [Ubuntu 18.04 探索筆記](https://samwhelp.github.io/note-ubuntu-18.04/)
