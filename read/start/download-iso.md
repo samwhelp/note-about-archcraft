@@ -20,6 +20,8 @@ parent: 入門
 ## Xfce
 
 * [https://github.com/archcraft-os/archcraft-xfce](https://github.com/archcraft-os/archcraft-xfce)
+* [https://github.com/archcraft-os/archcraft-xfce/releases](https://github.com/archcraft-os/archcraft-xfce/releases)
+* [https://github.com/archcraft-os/archcraft-xfce/releases/tag/v21.06](https://github.com/archcraft-os/archcraft-xfce/releases/tag/v21.06)
 
 ``` sh
 wget -c 'https://github.com/archcraft-os/archcraft-xfce/releases/download/v21.06/archcraft-2021.06.20-x86_64.iso'
