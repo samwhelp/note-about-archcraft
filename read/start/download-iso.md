@@ -52,6 +52,7 @@ sha256sum -c archcraft-2021.06.20-x86_64.iso.sha256sum
 
 * [https://github.com/archcraft-os/releases](https://github.com/archcraft-os/releases)
 * [https://github.com/archcraft-os/releases/releases/tag/v21.09](https://github.com/archcraft-os/releases/releases/tag/v21.09)
+* [Archcraft v21.09 is here!](https://www.reddit.com/r/unixporn/comments/purk3o/oc_archcraft_v2109_is_here/)
 
 ``` sh
 wget -c 'https://github.com/archcraft-os/releases/releases/download/v21.09/archcraft-2021.09.25-x86_64.iso'
