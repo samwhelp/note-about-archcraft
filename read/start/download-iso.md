@@ -19,7 +19,7 @@ parent: 入門
 
 ## Xfce
 
-* https://github.com/archcraft-os/archcraft-xfce
+* [https://github.com/archcraft-os/archcraft-xfce](https://github.com/archcraft-os/archcraft-xfce)
 
 ``` sh
 wget -c 'https://github.com/archcraft-os/archcraft-xfce/releases/download/v21.06/archcraft-2021.06.20-x86_64.iso'
@@ -48,7 +48,37 @@ sha256sum -c archcraft-2021.06.20-x86_64.iso.sha256sum
 
 ## Openbox
 
-* https://github.com/archcraft-os/releases
+### 21.09
+
+* [https://github.com/archcraft-os/releases](https://github.com/archcraft-os/releases)
+* [https://github.com/archcraft-os/releases/releases/tag/v21.09](https://github.com/archcraft-os/releases/releases/tag/v21.09)
+
+``` sh
+wget -c 'https://github.com/archcraft-os/releases/releases/download/v21.09/archcraft-2021.09.25-x86_64.iso'
+```
+
+``` sh
+wget -c 'https://github.com/archcraft-os/releases/releases/download/v21.09/archcraft-2021.09.25-x86_64.iso.sig'
+wget -c 'https://github.com/archcraft-os/releases/releases/download/v21.09/archcraft-2021.09.25-x86_64.iso.sha256sum'
+```
+
+``` sh
+gpg --recv-keys 7DC81F73
+```
+
+``` sh
+gpg --verify archcraft-2021.09.25-x86_64.iso.sig
+```
+
+``` sh
+sha256sum -c archcraft-2021.09.25-x86_64.iso.sha256sum
+```
+
+
+### 21.06
+
+* [https://github.com/archcraft-os/releases](https://github.com/archcraft-os/releases)
+* [https://github.com/archcraft-os/releases/releases/tag/v21.06](https://github.com/archcraft-os/releases/releases/tag/v21.06)
 
 ``` sh
 wget -c 'https://github.com/archcraft-os/releases/releases/download/v21.06/archcraft-2021.06.06-x86_64.iso'

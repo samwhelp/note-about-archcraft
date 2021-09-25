@@ -13,3 +13,4 @@ parent: 入門
 | --- |
 | demo_40_custom / [21.06](https://github.com/samwhelp/note-about-grub/tree/gh-pages/_demo/prototype/boot_iso/demo_40_custom/Archcraft/21.06) |
 | demo_41_custom / [21.06](https://github.com/samwhelp/note-about-grub/tree/gh-pages/_demo/prototype/boot_iso/demo_41_custom/Archcraft/21.06) |
+| demo_41_custom / [21.09](https://github.com/samwhelp/note-about-grub/tree/gh-pages/_demo/prototype/boot_iso/demo_41_custom/Archcraft/21.09) |
