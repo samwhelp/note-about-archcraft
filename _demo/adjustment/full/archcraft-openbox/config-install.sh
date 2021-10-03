@@ -65,6 +65,30 @@ picom_config_install () {
 
 
 ################################################################################
+### Head: tint2
+##
+tint2_config_install () {
+
+	echo "## Config: tint2"
+	echo
+
+	echo "mkdir -p $HOME/.config/openbox/tint2"
+	mkdir -p "$HOME/.config/openbox/tint2"
+
+
+	echo "install -Dm644 ./config/tint2/tint2rc $HOME/.config/openbox/tint2/tint2rc"
+	install -Dm644 "./config/tint2/tint2rc" "$HOME/.config/openbox/tint2/tint2rc"
+
+
+	echo
+
+}
+##
+### Tail: tint2
+################################################################################
+
+
+################################################################################
 ### Head: xfce4
 ##
 xfce4_config_install () {
@@ -444,6 +468,8 @@ main_config_install () {
 	openbox_config_install
 
 	picom_config_install
+
+	tint2_config_install
 
 	xfce4_config_install
 
