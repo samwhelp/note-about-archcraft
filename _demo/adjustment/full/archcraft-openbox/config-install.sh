@@ -4,6 +4,43 @@ set -e
 
 
 ################################################################################
+### Head: openbox
+##
+openbox_config_install () {
+
+	echo "## Config: Openbox"
+	echo
+
+	echo "mkdir -p $HOME/.config/openbox"
+	mkdir -p "$HOME/.config/openbox"
+
+
+	echo "install -Dm644 ./config/openbox/rc.xml $HOME/.config/openbox/rc.xml"
+	install -Dm644 "./config/openbox/rc.xml" "$HOME/.config/openbox/rc.xml"
+
+
+	echo "install -Dm644 ./config/openbox/menu-glyphs.xml $HOME/.config/openbox/menu-glyphs.xml"
+	install -Dm644 "./config/openbox/menu-glyphs.xml" "$HOME/.config/openbox/menu-glyphs.xml"
+
+	echo "install -Dm644 ./config/openbox/menu-icons.xml $HOME/.config/openbox/menu-icons.xml"
+	install -Dm644 "./config/openbox/menu-icons.xml" "$HOME/.config/openbox/menu-icons.xml"
+
+	echo "install -Dm644 ./config/openbox/menu-minimal.xml $HOME/.config/openbox/menu-minimal.xml"
+	install -Dm644 "./config/openbox/menu-minimal.xml" "$HOME/.config/openbox/menu-minimal.xml"
+
+	echo "install -Dm644 ./config/openbox/menu-simple.xml $HOME/.config/openbox/menu-simple.xml"
+	install -Dm644 "./config/openbox/menu-simple.xml" "$HOME/.config/openbox/menu-simple.xml"
+
+
+	echo
+
+}
+##
+### Tail: openbox
+################################################################################
+
+
+################################################################################
 ### Head: xfce4
 ##
 xfce4_config_install () {
@@ -379,6 +416,9 @@ gtk2_config_install () {
 ### Head: main
 ##
 main_config_install () {
+
+	openbox_config_install
+
 	xfce4_config_install
 
 	#theme_config_install
