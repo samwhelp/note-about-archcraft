@@ -1,0 +1,17 @@
+
+rofi
+
+
+fcitx
+fcitx-chewing
+fcitx-configtool
+fcitx-qt5
+
+
+pcmanfm-qt
+
+
+sakura
+
+
+
