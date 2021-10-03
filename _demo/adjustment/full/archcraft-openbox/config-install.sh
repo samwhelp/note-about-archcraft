@@ -41,6 +41,30 @@ openbox_config_install () {
 
 
 ################################################################################
+### Head: picom
+##
+picom_config_install () {
+
+	echo "## Config: picom"
+	echo
+
+	echo "mkdir -p $HOME/.config"
+	mkdir -p "$HOME/.config"
+
+
+	echo "install -Dm644 ./config/picom/picom.conf $HOME/.config/picom.conf"
+	install -Dm644 "./config/picom/picom.conf" "$HOME/.config/picom.conf"
+
+
+	echo
+
+}
+##
+### Tail: picom
+################################################################################
+
+
+################################################################################
 ### Head: xfce4
 ##
 xfce4_config_install () {
@@ -418,6 +442,8 @@ gtk2_config_install () {
 main_config_install () {
 
 	openbox_config_install
+
+	picom_config_install
 
 	xfce4_config_install
 
