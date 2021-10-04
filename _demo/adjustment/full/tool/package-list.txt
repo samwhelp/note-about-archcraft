@@ -47,8 +47,16 @@ atom
 ##
 ## Download
 ##
+
 youtube-dl
 filezilla
+
+
+##
+## Audio
+##
+
+audacious
 
 
 ##
@@ -82,6 +90,7 @@ bat
 ## Media
 ##
 
+mate-media
 mediainfo
 mediainfo-gui
 
