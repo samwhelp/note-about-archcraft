@@ -77,16 +77,6 @@ sxiv
 
 
 ##
-## Develop
-##
-
-xorg-server-xephyr
-fzf
-tree
-bat
-
-
-##
 ## Media
 ##
 
@@ -94,6 +84,16 @@ mate-media
 mediainfo
 mediainfo-gui
 
+
+##
+## Develop
+##
+
+xorg-server-xephyr
+fzf
+tree
+bat
+php
 
 ##
 ## Tail: Arch Package
