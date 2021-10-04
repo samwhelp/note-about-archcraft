@@ -1,0 +1,91 @@
+
+
+################################################################################
+## Head: Arch Package
+##
+
+
+##
+## Terminal
+##
+
+sakura
+
+
+##
+## File Manager
+##
+
+pcmanfm-qt
+
+
+##
+## Font
+##
+
+noto-fonts-cjk
+
+
+##
+## Input Method
+##
+
+fcitx
+fcitx-chewing
+fcitx-configtool
+fcitx-qt5
+
+
+##
+## Text Editor
+##
+
+micro
+atom
+
+
+##
+## Download
+##
+youtube-dl
+filezilla
+
+
+##
+## Video
+##
+
+vlc
+mpv
+smplayer
+
+
+##
+## Image
+##
+
+gpicview
+sxiv
+
+
+##
+## Develop
+##
+
+xorg-server-xephyr
+fzf
+tree
+bat
+
+
+##
+## Media
+##
+
+mediainfo
+mediainfo-gui
+
+
+##
+## Tail: Arch Package
+################################################################################
