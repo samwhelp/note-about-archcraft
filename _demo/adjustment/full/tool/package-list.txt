@@ -86,6 +86,13 @@ mediainfo-gui
 
 
 ##
+## Network
+##
+
+network-manager-applet
+
+
+##
 ## Develop
 ##
 
@@ -94,6 +101,17 @@ fzf
 tree
 bat
 php
+python-pygithub
+
+
+##
+## qt5ct
+##
+
+## for qt5ct.conf [style=gtk2]
+qt5-styleplugins
+
+
 
 ##
 ## Tail: Arch Package
