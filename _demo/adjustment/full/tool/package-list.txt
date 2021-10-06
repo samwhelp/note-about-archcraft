@@ -105,12 +105,25 @@ python-pygithub
 
 
 ##
-## qt5ct
+## Qt
 ##
 
 ## for qt5ct.conf [style=gtk2]
 qt5-styleplugins
 
+
+##
+## Panel
+##
+
+tint2
+
+
+##
+## Cursor
+##
+
+xcursor-breeze
 
 
 ##
