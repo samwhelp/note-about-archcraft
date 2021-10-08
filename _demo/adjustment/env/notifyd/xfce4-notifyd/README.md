@@ -28,6 +28,8 @@ sudo pacman -Sy --needed python-pyxdg
 | --- | --- |
 | [~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-notifyd.xml](config/xfce4-notifyd/xfce4/xfconf/xfce-perchannel-xml/xfce4-notifyd.xml) |
 
+> GUI Tool: [xfce4-notifyd-config](https://docs.xfce.org/apps/xfce4-notifyd/preferences)
+
 ### Autostart
 
 | PATH | Difference |
