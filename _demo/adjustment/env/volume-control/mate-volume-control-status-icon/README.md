@@ -4,6 +4,8 @@
 ## Link
 
 * [https://archlinux.org/packages/community/x86_64/mate-media/](https://archlinux.org/packages/community/x86_64/mate-media/)
+* [https://archlinux.org/packages/extra/any/python-pyxdg/](https://archlinux.org/packages/extra/any/python-pyxdg/)
+* [https://archlinux.org/packages/community/x86_64/openbox/](https://archlinux.org/packages/community/x86_64/openbox/)
 
 
 ## Install Package
