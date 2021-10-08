@@ -20,14 +20,13 @@ parent: 專案
 
 ## repository
 
-| 套件庫 |
-| --- |
-| [archcraft-adjustment-repository](https://github.com/samwhelp/archcraft-adjustment-repository) |
+| 套件庫 | 套件包原始碼 |
+| --- | --- |
+| [archcraft-adjustment-repository](https://github.com/samwhelp/archcraft-adjustment-repository) | [archcraft-adjustment-package](https://github.com/samwhelp/archcraft-adjustment-package) |
 
 ### package
 
 | 套件包原始碼 |
 | --- |
-| [archcraft-adjustment-package](https://github.com/samwhelp/archcraft-adjustment-package) |
 | [archcraft-adjustment-prototype](https://github.com/samwhelp/archcraft-adjustment-prototype) |
 | [archcraft-openbox-style-select](https://github.com/samwhelp/archcraft-openbox-style-select) |
