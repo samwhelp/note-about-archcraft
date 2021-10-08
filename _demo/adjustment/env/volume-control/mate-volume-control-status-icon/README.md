@@ -27,7 +27,7 @@ sudo pacman -Sy --needed python-pyxdg
 | PATH | Difference |
 | --- | --- |
 | /etc/xdg/autostart/mate-volume-control-status-icon.desktop | `OnlyShowIn=MATE;` |
-| [~/.config/autostart/mate-volume-control-status-icon.desktop](config/mate-volume-control-status-icon/autostart/mate-volume-control-status-icon.desktop) `OnlyShowIn=MATE;OPENBOX;` |
+| [~/.config/autostart/mate-volume-control-status-icon.desktop](config/mate-volume-control-status-icon/autostart/mate-volume-control-status-icon.desktop) | `OnlyShowIn=MATE;OPENBOX;` |
 
 > `OPENBOX` must `all uppercase` on `OnlyShowIn`
 

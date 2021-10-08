@@ -24,8 +24,8 @@ sudo pacman -Sy --needed python-pyxdg
 
 ### Setting
 
-| PATH | Difference |
-| --- | --- |
+| PATH |
+| --- |
 | [~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-notifyd.xml](config/xfce4-notifyd/xfce4/xfconf/xfce-perchannel-xml/xfce4-notifyd.xml) |
 
 > GUI Tool: [xfce4-notifyd-config](https://docs.xfce.org/apps/xfce4-notifyd/preferences)
@@ -35,7 +35,7 @@ sudo pacman -Sy --needed python-pyxdg
 | PATH | Difference |
 | --- | --- |
 | /etc/xdg/autostart/xfce4-notifyd.desktop | `OnlyShowIn=XFCE;` |
-| [~/.config/autostart/xfce4-notifyd.desktop](config/xfce4-notifyd/autostart/xfce4-notifyd.desktop) `OnlyShowIn=XFCE;OPENBOX;` |
+| [~/.config/autostart/xfce4-notifyd.desktop](config/xfce4-notifyd/autostart/xfce4-notifyd.desktop) | `OnlyShowIn=XFCE;OPENBOX;` |
 
 > `OPENBOX` must `all uppercase` on `OnlyShowIn`
 
