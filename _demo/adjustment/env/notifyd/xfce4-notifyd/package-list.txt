@@ -1,0 +1,16 @@
+
+
+##
+## notifyd
+##
+
+## is used instead of dunst
+xfce4-notifyd
+
+
+##
+## pyxdg
+##
+
+## install `python-pyxdg` for `/usr/lib/openbox/openbox-xdg-autostart`
+python-pyxdg

@@ -1,0 +1,7 @@
+
+##
+## Media
+##
+
+## install `mate-media` for use `mate-volume-control-status-icon`
+mate-media
