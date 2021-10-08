@@ -1,4 +1,9 @@
 
+## typeface
+
+* serif
+* sans-serif
+* monospace
 
 ## Path
 
