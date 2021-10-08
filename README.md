@@ -13,7 +13,7 @@
 
 * [入門](#入門)
 * [專案](#專案)
-* [專案](#專案)
+* [Archcraft Adjustment](#archcraft-adjustment)
 
 
 ### 入門
@@ -31,7 +31,7 @@
 | [archcraft-openbox-style-select](https://samwhelp.github.io/note-about-archcraft/read/project/style-select/archcraft-openbox-style-select) |
 
 
-### 專案 / Archcraft Adjustment
+### Archcraft Adjustment
 
 | 專案列表 |
 | --- |
