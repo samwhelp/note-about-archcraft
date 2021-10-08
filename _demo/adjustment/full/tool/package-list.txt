@@ -42,6 +42,7 @@ fcitx-qt5
 
 micro
 atom
+mousepad
 
 
 ##
@@ -126,6 +127,7 @@ tint2
 ## Cursor
 ##
 
+## Breeze and Breeze_Snow 
 xcursor-breeze
 
 
