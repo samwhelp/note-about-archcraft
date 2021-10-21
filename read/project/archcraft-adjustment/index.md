@@ -12,7 +12,7 @@ parent: 專案
 
 
 * [Documentation](#documentation)
-* [iso-profile](#iso-profile)
+* [ISO Profile](#iso-profile)
 * [Package](#package)
 * [Repository](#repository)
 * [Wm Config](#wm-config)
@@ -27,9 +27,9 @@ parent: 專案
 | [note-about-archcraft](https://github.com/samwhelp/note-about-archcraft) |
 
 
-### iso-profile
+### ISO Profile
 
-| iso-profile |
+| ISO 製作藍圖 |
 | --- |
 | [archcraft-adjustment-iso-profile](https://github.com/samwhelp/archcraft-adjustment-iso-profile) |
 | [archcraft-iso-profile-openbox](https://github.com/samwhelp/archcraft-iso-profile-openbox) |
