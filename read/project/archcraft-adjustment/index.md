@@ -21,7 +21,7 @@ parent: 專案
 ### Documentation
 
 
-| Documentation |
+| 文件專案 |
 | --- |
 | [archcraft-adjustment-documentation](https://github.com/samwhelp/archcraft-adjustment-documentation) |
 | [note-about-archcraft](https://github.com/samwhelp/note-about-archcraft) |
@@ -53,12 +53,12 @@ parent: 專案
 
 ## Wm Config
 
-| Wm |
+| Dwm |
 | --- |
 | [cordwm](https://github.com/samwhelp/cordwm)
 
 
-| Wm Config | Wm Rc Ctrl |
+| 設定檔 | 設定檔管理工具 |
 | --- | --- |
 | [openbox-with-tint](https://github.com/samwhelp/archcraft-adjustment-package/tree/main/core/wm/openbox/archcraft-modeling-openbox-with-tint/asset/etc/skel/.local/share/openboxrc-profile/openbox-with-tint) | [openboxrc-ctrl](https://github.com/samwhelp/archcraft-adjustment-package/tree/main/core/wm/openbox/archcraft-tool-openboxrc-ctrl) |
 | [herbstluftwm-with-tint](https://github.com/samwhelp/archcraft-adjustment-package/tree/main/core/wm/herbstluftwm/archcraft-modeling-herbstluftwm-with-tint/asset/etc/skel/.local/share/herbstluftwmrc-profile/herbstluftwm-with-tint) | [herbstluftwmrc-ctrl](https://github.com/samwhelp/archcraft-adjustment-package/tree/main/core/wm/herbstluftwm/archcraft-tool-herbstluftwmrc-ctrl) |
@@ -67,7 +67,7 @@ parent: 專案
 | [leftwm-with-tint](https://github.com/samwhelp/archcraft-adjustment-package/tree/main/core/wm/leftwm/archcraft-modeling-leftwm-with-tint/asset/etc/skel/.local/share/leftwmrc-profile/leftwm-with-tint) | [leftwmrc-ctrl](https://github.com/samwhelp/archcraft-adjustment-package/tree/main/core/wm/leftwm/archcraft-tool-leftwmrc-ctrl) |
 
 
-| Leftwm Theme Ctrl |
+| Leftwm 佈景主題管理輔助工具 |
 | --- |
 | [leftwmrc-theme-ctrl](https://github.com/samwhelp/archcraft-adjustment-package/tree/main/core/wm/leftwm/archcraft-tool-leftwmrc-theme-ctrl) |
 | [leftwmrc-theme-get](https://github.com/samwhelp/archcraft-adjustment-package/tree/main/core/wm/leftwm/archcraft-tool-leftwmrc-theme-get) |
