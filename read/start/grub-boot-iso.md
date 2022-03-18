@@ -20,7 +20,7 @@ parent: 入門
 ## GRUB Menu Entry / Boot ISO 樣板
 
 
-```
+``` sh
 menuentry "Archcraft Openbox ISO" --class Archcraft {
 	set iso_file="/opt/iso/archcraft/openbox/archcraft-2022.02.02-x86_64.iso"
 	search --no-floppy -f --set=iso_partition $iso_file
