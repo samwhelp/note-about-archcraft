@@ -10,8 +10,8 @@ parent: 如何
 
 
 
-## 實作案例
+## 範例
 
-| 實作案例 |
+| 範例 |
 | --- |
 | archcraft-lxde / [drag_window_to_move_when_window_maximized](https://github.com/samwhelp/archcraft-adjustment/tree/main/sample/mousebind-adjustment/archcraft-lxde/2022-10-10/drag_window_to_move_when_window_maximized) |
