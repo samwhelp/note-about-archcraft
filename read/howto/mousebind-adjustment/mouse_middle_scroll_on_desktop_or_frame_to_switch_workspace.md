@@ -1,6 +1,6 @@
 ---
 title: 設定在桌面或視窗，滑鼠中鍵滾動，切換工作空間
-nav_order: 7014
+nav_order: 7015
 has_children: false
 parent: 如何
 ---
