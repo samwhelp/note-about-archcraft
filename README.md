@@ -1,20 +1,33 @@
 
 # 首頁
 
-* [note-about-archcraft](https://samwhelp.github.io/note-about-archcraft/) ([GitHub](https://github.com/samwhelp/note-about-archcraft))
+| Link | GitHub |
+| ---- | ------ |
+| [Archcraft Adjustment](https://samwhelp.github.io/archcraft-adjustment/) | [GitHub](https://github.com/samwhelp/archcraft-adjustment) |
+| [Archcraft 探索筆記](https://samwhelp.github.io/note-about-archcraft/) | [GitHub](https://github.com/samwhelp/note-about-archcraft) |
 
 
-## samwhelp
-
-* [個人筆記](https://samwhelp.github.io/book/)
 
 
 ## 主題
 
+* [Archcraft Respin](#archcraft-respin)
 * [入門](#入門)
 * [如何](#如何)
 * [專案](#專案)
 * [Archcraft Adjustment](#archcraft-adjustment)
+* [相關筆記](#相關筆記)
+
+
+
+
+## Archcraft Respin
+
+| Link | GitHub |
+| ---- | ------ |
+| [Archcraft Openbox 探索筆記](https://samwhelp.github.io/note-about-archcraft-openbox/) | [GitHub](https://github.com/samwhelp/note-about-archcraft-openbox) |
+
+
 
 
 ### 入門
@@ -33,6 +46,8 @@
 | [Boot ISO By GRUB](https://samwhelp.github.io/note-about-archcraft/read/start/download/boot_iso_by_grub.html) |
 
 
+
+
 ## 如何
 
 | 議題 |
@@ -45,6 +60,8 @@
 | [設定在桌面或視窗，滑鼠中鍵滾動，切換工作空間](https://samwhelp.github.io/note-about-archcraft/read/howto/mousebind-adjustment/mouse_middle_scroll_on_desktop_or_frame_to_switch_workspace.html) |
 
 
+
+
 ### 專案
 
 | 工具 |
@@ -52,8 +69,35 @@
 | [archcraft-openbox-style-select](https://samwhelp.github.io/note-about-archcraft/read/project/style-select/archcraft-openbox-style-select) |
 
 
+
+
 ### Archcraft Adjustment
 
 | 專案列表 |
 | --- |
 | [archcraft-adjustment](https://samwhelp.github.io/note-about-archcraft/read/project/archcraft-adjustment/) |
+
+
+
+
+## 相關筆記
+
+| Link | GitHub |
+| ---- | ------ |
+| [System Modeling](https://samwhelp.github.io/system-modeling/) | [GitHub](https://github.com/samwhelp/system-modeling) |
+| [Archlinux 探索筆記](https://samwhelp.github.io/note-about-archlinux/) | [GitHub](https://github.com/samwhelp/note-about-archlinux) |
+| [EndeavourOS 探索筆記](https://samwhelp.github.io/note-about-endeavouros/) | [GitHub](https://github.com/samwhelp/note-about-endeavouros) |
+| [CachyOS 探索筆記](https://samwhelp.github.io/note-about-cachyos/) | [GitHub](https://github.com/samwhelp/note-about-cachyos) |
+| [GarudaLinux 探索筆記](https://samwhelp.github.io/note-about-garuda/) | [GitHub](https://github.com/samwhelp/note-about-garuda) |
+| [Ezarcher 探索筆記](https://samwhelp.github.io/note-about-ezarcher/) | [GitHub](https://github.com/samwhelp/note-about-ezarcher) |
+| [Manjaro 探索筆記](https://samwhelp.github.io/note-about-manjaro/) | [GitHub](https://github.com/samwhelp/note-about-manjaro) |
+| [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu) |
+| [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
+| [Fedora 探索筆記](https://samwhelp.github.io/note-about-fedora/) | [GitHub](https://github.com/samwhelp/note-about-fedora) |
+
+
+
+
+## Samwhelp
+
+* [個人筆記](https://samwhelp.github.io/book/)
